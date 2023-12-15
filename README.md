@@ -7,7 +7,7 @@
 </p>
 
 - 💞️ I’m looking to collaborate on Open Source Project
-- 📫 How to reach me : **kia.arta9793@gmail.com**
+- 📫 How to reach me : **me@kiahamedi.com**
 
 
 
