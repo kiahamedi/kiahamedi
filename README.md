@@ -6,7 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=kiahamedi&color=blueviolet&style=flat">
 </p>
 
-- 💞️ I’m looking to collaborate on Open Source Project
 - 📫 How to reach me : **me@kiahamedi.com**
 - 🌍 Visit my site : **www.kiahamedi.com**
 
