@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kia Hamedi</h1>
 
-<h3 align="center">PhD Student of Software Systems Engineering</h3>
+<h3 align="center">i am only Kia</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kiahamedi&color=blueviolet&style=flat">
